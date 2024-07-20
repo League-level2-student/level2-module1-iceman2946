@@ -36,7 +36,7 @@ public class VisualArrayLists implements ActionListener {
 			System.out.println("Ball is not in the list.");
 		}
 		// 6. Get a specific item from our list and print it out
-		String b= list.get(3);
+		String b= list.get(2);
 		System.out.println(b);
 		// 7. Clear our list of all items
 		list.clear();
